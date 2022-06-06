@@ -1,0 +1,22 @@
+.box {
+    height: 500px;
+    border: 2px solid green;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
+    width: 500px;
+    border: 2px dashed purple;
+}
+
+.seat {
+    padding: 30px;
+    margin: 20px;
+    font-size: 30px;
+    color: blue;
+    background-color: #febfcb;
+    border: 1px solid red;
+}
