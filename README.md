@@ -6,3 +6,6 @@
 
 ### Exercise Output:
 1. Submit your github repository link.
+
+### Exercise Result:
+![image](https://user-images.githubusercontent.com/52924993/172161435-5e1257e8-0d55-4329-9efc-c12d9896f5a5.png)
